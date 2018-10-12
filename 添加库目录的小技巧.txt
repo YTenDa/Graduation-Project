@@ -1,0 +1,1 @@
+添加库目录的小技巧：$(SolutionDir)表示.sln文件所在的目录，$(ProjectDir)表示 .vcproj所在目录。示例：$(SolutionDir)\Debug
